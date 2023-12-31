@@ -1,0 +1,14 @@
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\bin\Debug\net7.0\09-atividade.exe
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\bin\Debug\net7.0\09-atividade.deps.json
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\bin\Debug\net7.0\09-atividade.runtimeconfig.json
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\bin\Debug\net7.0\09-atividade.dll
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\bin\Debug\net7.0\09-atividade.pdb
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\09-atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\09-atividade.AssemblyInfoInputs.cache
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\09-atividade.AssemblyInfo.cs
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\09-atividade.csproj.CoreCompileInputs.cache
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\09-atividade.dll
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\refint\09-atividade.dll
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\09-atividade.pdb
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\09-atividade.genruntimeconfig.cache
+C:\Users\Gerlane\Desktop\Lógica de Programação\09-atividade\obj\Debug\net7.0\ref\09-atividade.dll
